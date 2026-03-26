@@ -1,5 +1,5 @@
 # 💫 About Me:
-i m full stack web dev .working on freelaince project ,looking for work<br><br>
+I’m a full-stack web developer currently working on freelance projects and actively looking for new opportunities.<br><br>
 
 
 ## 🌐 Socials:
